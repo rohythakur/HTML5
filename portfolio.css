@@ -233,6 +233,11 @@ form {
       opacity: 1;
       color:#aaa;
     }
+    h2,h3{
+  color:$morkgra;
+  font-weight:bold;
+  text-align:center;
+  text-transform:uppercase;
     &-focused label {
       color:$fargglad;
     }
